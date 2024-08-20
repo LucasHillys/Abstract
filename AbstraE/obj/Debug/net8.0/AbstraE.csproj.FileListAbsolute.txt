@@ -1,0 +1,14 @@
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\bin\Debug\net8.0\AbstraE.exe
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\bin\Debug\net8.0\AbstraE.deps.json
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\bin\Debug\net8.0\AbstraE.runtimeconfig.json
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\bin\Debug\net8.0\AbstraE.dll
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\bin\Debug\net8.0\AbstraE.pdb
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\AbstraE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\AbstraE.AssemblyInfoInputs.cache
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\AbstraE.AssemblyInfo.cs
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\AbstraE.csproj.CoreCompileInputs.cache
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\AbstraE.dll
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\refint\AbstraE.dll
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\AbstraE.pdb
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\AbstraE.genruntimeconfig.cache
+C:\Users\lucas.martins\Desktop\Programa\AbstraE\AbstraE\obj\Debug\net8.0\ref\AbstraE.dll
